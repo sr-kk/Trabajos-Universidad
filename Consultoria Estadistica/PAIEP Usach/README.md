@@ -35,6 +35,6 @@ La base de datos contiene las siguientes variables:
 
 # Preguntas de evaluación de impacto
 
-1. Sea Zk = 1 si un alumno asistió a k tutorías durante el primer semestre, y $Z_k$ = 0 si un alumno asistió a menos de k tutorías durante el primer semestre. $Z_k$ podría denominarse intensidad del tratamiento. Para los alumnos BAP, ¿en qué valor de k se observa un mayor impacto de las tutorías sobre la nota promedio al final del primer semestre?
+1. Sea $Z_k$ = 1 si un alumno asistió a k tutorías durante el primer semestre, y $Z_k$ = 0 si un alumno asistió a menos de k tutorías durante el primer semestre. $Z_k$ podría denominarse intensidad del tratamiento. Para los alumnos BAP, ¿en qué valor de k se observa un mayor impacto de las tutorías sobre la nota promedio al final del primer semestre?
 
 2. Al inicio del segundo semestre los estudiantes pueden elegir continuar o no en el programa de tutoría. Evalúe cuál es la mejor decisión: continuar o no en el programa. Para esta pregunta, tenga en cuenta no sólo a los estudiantes BAP en el segundo semestre, sino también a los estudiantes VAI.
