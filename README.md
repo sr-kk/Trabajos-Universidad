@@ -1,4 +1,2 @@
-# University Proyects
-Here are many of my works/proyects that I realize during my instance in the Statistitcs carreer at the Pontificia Universidad Católica de Chile.
-
-* Testing git pull
+# Descripción
+Aqui hay algunos de los trabajos que he realizado durante mis estudios de estadística en la universidad católica de Chile.
